@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nl-rechtspraak",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Netherlands court decisions (uitspraken en conclusies) — search by court, legal domain and date, resolve by ECLI, read the full original Dutch text. Separate from @pipeworx/nl-wetten (statutes) — this pack is case law.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-5404c0d9c062610f90b9e53d21783df9c9ee6f035e6eea812c8ca2e1c7602ca7",
-    "sourceCommit": "a03f96ed672b8c149593c64ecbf30280cabf084c"
+    "sourceHash": "v1-0bdc9f98cb6d9a4774f020cace3788859b4174795aaa7a24b724703329b030b1",
+    "sourceCommit": "774de7f685a75e02d0b828d24a7b94794102152c"
   }
 }
