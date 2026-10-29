@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/nl-rechtspraak",
   "title": "Nl Rechtspraak",
   "description": "Netherlands court decisions (uitspraken en conclusies) — search by court, legal domain and date…",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/nl-rechtspraak",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nl-rechtspraak",
